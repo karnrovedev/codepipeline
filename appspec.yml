@@ -1,7 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: Config/config.txt
-    destination: /var/www/html/webapps/Config
   - source: source
     destination: /var/www/html/myApp
